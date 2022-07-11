@@ -1,0 +1,100 @@
+Abutments
+Air Terminals
+Areas
+Audio Visual Devices
+Bearings
+Bridge Cables
+Bridge Decks
+Bridge Decks
+Bridge Framing
+Cable Tray Fittings
+Cable Trays
+Casework
+Ceilings
+Columns
+Communication Devices
+Conduit Fittings
+Conduits
+Containment MEP
+Couplers
+Curtain Panels
+Curtain Systems
+Curtain Wall Mullions
+Data Devices
+Detail Items
+Doors
+Duct Accessories
+Duct Fittings
+Duct Insulations
+Duct Linings
+Duct Placeholders
+Ducts
+Electrical Equipment
+Electrical Fixtures
+Entourage
+Expansion Joints
+Fabrication Ductwork
+Fire Alarm Devices
+Fire Protection
+Flex Ducts
+Flex Pipes
+Floors
+Food Service Equipment
+Furniture
+Furniture Systems
+Generic Models
+Hardscape
+Lighting Devices
+Lighting Fixtures
+Lines
+Mass
+Mechanical Equipment
+Medical Equipment
+MEP Fabrication
+MEP Fabrication Hangers
+MEP Fabrication Pipework
+Nurse Call Devices
+Parking
+Parts
+Piers
+Pipe Accessories
+Pipe Fittings
+Pipe Insulations
+Pipes
+Planting
+Plumbing Fixtures
+Railings
+Ramps
+Raster Images
+Roads
+Roads
+Roofs
+Security Devices
+Shaft Openings
+Signage
+Site
+Specialty Equipment
+Sprinklers
+Stairs
+Structural Area Reinforcement
+Structural Beam Systems
+Structural Columns
+Structural Connections
+Structural Fabric Areas
+Structural Fabric Reinforcement
+Structural Foundations
+Structural Framing
+Structural Path Reinforcement
+Structural Rebar
+Structural Rebar
+Structural Stiffeners
+Structural Tendons
+Structural Trusses
+Telephone Devices
+Temporary Structures
+Topography
+Vertical Circulation
+Vibration Management
+Walls
+Windows 
+Wires
